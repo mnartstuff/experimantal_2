@@ -1,0 +1,286 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+h4{
+	color: #2b2b86;
+	text-align: left;
+    font-family: beata LP, ITC Cancione, Galahad;
+    font-size: 150%;
+    clear: both;
+}
+
+p{
+	color: rgb(10, 4, 88);
+	text-align: justify;
+	font-size: 115%;
+}
+
+body{
+    margin: 10%;
+    /* background: linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+    background: -moz-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+    background: -webkit-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%);
+    background: -o-linear-gradient(top, rgb(235 236 220) 0%, #91b4c9 100%); */
+
+}
+
+
+figcaption{
+	text-align: center;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	color: rgb(71, 2, 23);
+}
+
+section{
+    margin-bottom: 25px;
+}
+
+
+/* HEADER STYLING */
+
+h2{
+	font-size: 220%;
+	font-family: ITC Cancione, Galahad;
+	color: rgb(10, 4, 88);
+	text-align: left;
+}
+
+h6{
+    font-size: 130%;
+    font-family: 'Garamond', 'Perpetua', 'Calisto MT';
+    color: rgb(10, 4, 88);
+    text-align: justify;
+}
+
+.title{
+    width: 70%;
+    margin: 1%;
+    display: inline-block;
+    float: left;
+}
+
+.havel{
+    width: 22%;
+    margin: 1%;
+    display: inline-block;
+    float: left;
+    position: relative;
+    top: 37px;
+    left: 47px;
+}
+
+.havel_i{
+    width: 100%;
+    display: inline-block;
+}
+
+/* END HEADER STYLING */
+
+
+/* HANCOCK STYLING */
+
+.hanc_pic{
+    width:100%;
+    display: inline-block;
+}
+
+.hanc{
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.hanc2{
+    display: block;
+    float: center;
+}
+
+/* END HANCOCK STYLING */
+
+/* CR STYLING */
+
+.cechia_p{
+    width: 74%;
+    display: inline-block;
+    float: left;
+}
+
+.catnip{
+    width: 22%;
+    margin: 1%;
+    display: inline-block;
+    float: left;
+}
+
+.catnip_logo{
+    width: 34%;
+    min-width: 50px;
+    padding: 0% 33%;
+    float: center;
+}
+
+.cechia_g{
+    width: 48%;
+    display: inline-block;
+    float: left;
+}
+
+.cechia_i{
+    width:100%;
+    display: inline-block;
+}
+
+/* END CR STYLING */
+
+/* EUR STYLING */
+
+.euro_fr{
+    width: 61.5%;
+    display: inline-block;
+    float: left;
+}
+
+.euro_os{
+    width: 34.5%;
+    display: inline-block;
+    float: left;
+}
+
+.euro_i{
+    width:100%;
+    display: inline-block;
+}
+
+.euro_txt{
+    display: block;
+    float: center;
+    clear: both;
+}
+
+/* END EURO STYLING */
+
+/* MN STYLING */
+
+.mn_to{
+    width: 34.6%;
+    display: inline-block;
+    float: left;
+}
+
+.mn_to_i{
+    width: 100%;
+    display: inline-block;
+}
+
+.mn_bd{
+    width: 61.4%;
+    display: inline-block;
+    float: left;
+}
+
+.mn_bd_i{
+    width: 100%;
+    display: inline-block;
+}
+
+.mn{
+    display: block;
+    float: center;
+    clear: both;
+}
+
+/* END MN STYLING */
+
+/* SWEETCHEEX STYLING */
+
+.ap_table{
+    width: 72.9%;
+    display: inline-block;
+    float: left;
+}
+
+.ap_table1{
+    width: 100%;
+    display: inline-block;
+}
+
+.ap_t{
+    width: 23.1%;
+    display: inline-block;
+    float: left;
+}
+
+.ap_t1{
+    width: 100%;
+    display: inline-block;
+}
+
+.sweetcheex{
+    font-size: 140%;
+    display: block;
+    float: center;
+    clear: both;
+}
+
+.sweetcheex a{
+    display: inline-block;
+    background-color: rgb(54, 53, 50);
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 170px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.sweetcheex a:hover{
+    background-color: #FFFFFF;
+    color:  rgb(54, 53, 50);
+}
+
+/* END SWEETCHEEX STYLING */
+
+/* MY ART STYLING */
+
+.funky{
+    width: 25.8%;
+    display: inline-block;
+    float: left;
+}
+
+.funky_i{
+    width: 100%;
+    display: inline-block;
+}
+
+.tech{
+    width: 26.4%;
+    display: inline-block;
+    float: left;
+}
+
+.tech_i{
+    width: 100%;
+    display: inline-block;
+}
+
+.abbot{
+    width: 40.8%;
+    display: inline-block;
+    float: left;
+}
+
+.abbot_link{
+    width: 100%;
+    display: inline-block;
+}
+
+/* END MY ART STYLING */
